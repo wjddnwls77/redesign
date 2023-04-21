@@ -1,0 +1,11 @@
+반응형디자인
+
+기기의 화면너비에 반응하여 css를 변경하는 것을 의미
+
+html파일 1개에 화면너비에 대응되는 여러개의 css파일을 연결하여 디자인을 보여주는 방식!
+
+index.html
+
+pcstyle.css
+mobile.css
+tablet.css
